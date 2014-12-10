@@ -20,14 +20,10 @@ Kinect v2でマスコットになるやつ
 
 いつでもえらべるよ。みんなかわいい＞ω＜
 
-## 動作イメージ
-こんなかんじ
-
-<iframe src="https://docs.google.com/a/buu0528.com/file/d/0B6RXrtCWmZyPd1lKdXc4STVEQzA/preview" width="640" height="480"></iframe>
 
 ## あそぶ！！
 - まずはKinect v2 をじゅんびしてね
-- [GitHubでソースコードをダウンロード](https://github.com/buu0528/KinectV2MascotFace)して、Visual Studioでビルドしよう！
+- [ソースコードをダウンロード](https://github.com/buu0528/KinectV2MascotFace/archive/master.zip)して、Visual Studioでビルドしよう！
 - このアプリを実行したことによる損害・被害に関して作者は一切の責任を負いません＞＜
 
 ![screenshot1](http://mascot-apps-contest-2014.buu0528.com/screenshot1.png)
