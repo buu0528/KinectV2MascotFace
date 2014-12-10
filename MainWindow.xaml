@@ -1,0 +1,12 @@
+﻿<Window x:Class="KinectV2MascotFace.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:KinectV2MascotFace.Controls"
+        Title="KinectV2でマスコットになるやつ" Height="480" Width="800">
+    <Grid>
+        <Viewbox Width="auto" Height="auto" Stretch="Uniform">
+            <Canvas x:Name="CanvasBody" Width="1920" Height="1080"/>
+        </Viewbox>
+        <local:FaceSelectorControl x:Name="FaceSelctor" SetFace="SelectMascot"/>
+    </Grid>
+</Window>
